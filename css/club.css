@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+.img1
+{
+	width: 500px;
+	height: 500px;
+	margin-top:2%;
+	margin-bottom: 2%;
+	margin-left:2%;	
+	border-radius: 10px;
+
+}
+.img2
+{
+	width: 500px;
+	height: 500px;
+	margin-top:2%;
+	margin-bottom: 2%;
+	margin-left:2%;
+	border-radius: 10px;
+	
+
+}
+.img3
+{
+	width: 500px;
+	height: 500px;
+	margin-top:2%;
+	margin-bottom:2%;
+	margin-left:2%;
+	border-radius: 10px;
+
+}
+#word{
+	font-family: 'Acme', sans-serif;
+	margin-top:2%;
+	margin-bottom: 2%;
+	line-height:80px ; 
+	font-size: 40px; 
+	color:#D09E88;
+	background: rgba(0,0,0,.8);
+	box-sizing: border-box;
+	box-shadow: 0 15px 25px rgba(0,0,0,.5);
+	border-radius: 10px;
+

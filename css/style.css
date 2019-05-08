@@ -1,0 +1,133 @@
+/* {
+    border: 1px solid black;
+}*/
+
+[class*="row"] {
+    padding: 10px;
+}
+
+#footer {
+    background-color: #444444;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    height: 80px;
+    padding-top: 10px;
+    font-family:Microsoft JhengHei;
+}
+
+.navbar-nav {
+    padding-left: 150px;
+
+}
+
+#carousel>img {
+    width: 100%;
+}
+
+#brandfont {
+    font-size: 30px;
+    text-align: center;
+}
+
+#brandimg {
+    padding-left: 80px;
+    max-width: 100%
+}
+
+#shopcar {
+    background-color: #444444;
+    text-align: center;
+    height: 40px;
+    color: white;
+    padding-top: 5px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-size: 24px;
+    margin-left: 60px;
+    font-family: Serif;
+}
+
+.carfont {
+    text-align: center;
+    font-size: 18px;
+    font-style: bold;
+}
+
+input {
+    padding: 5px 15px;
+    background: #ccc;
+    border: 0 none;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#navchange {
+    padding-right: 5px
+}
+
+#comments {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    background-color: #CCDDFF;
+    width: 600px;
+    height: 400px;
+}
+
+textarea {
+    height: 100px;
+    width: 207px;
+    background: #ccc;
+}
+
+#confirm {
+    background-color: #444444;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    color: white;
+    padding-top: 5px;
+}
+
+#product {
+    padding-top: 300px;
+}
+
+a {
+    color:white;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #444444;
+    border-color: #444444;
+}
+#login{
+	color:blue;
+}
+#ok{
+	background-color:#666666;
+	color:white;
+	font-family:Microsoft JhengHei;
+	font-size:30px;
+}
+p{
+	font-family:Microsoft JhengHei;
+}
+#data{
+	background-color:#888888;
+	width:600px;
+	height:700px;
+}
+.img-thumbnail {
+	height:250px;
+	width:300px;
+}
+#hot{
+	height:400px;
+	width:500px;
+}
